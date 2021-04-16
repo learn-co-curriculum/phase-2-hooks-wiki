@@ -78,7 +78,7 @@ See you all Monday!
 
 - DQ: Components
 - Morning Lecture: Components and Props
-  - [Starter Code](TODO: add link)
+  - [Starter Code](lectures/02-components-and-props)
   - [Example Lecture](https://youtu.be/iG0c1UItyNs)
 - Labs: Components, Props and JSX
   - ⭐️ Props Destructuring and Default Values
@@ -94,7 +94,7 @@ See you all Monday!
 
 - DQ: Extracting Components
 - Morning Lecture: State and Events
-  - [Starter Code](TODO: add link)
+  - [Starter Code](lectures/03-state-and-events)
   - [Example Lecture](https://youtu.be/X0ZvSopGi4c)
 - Optional Afternoon Mini Lecture: useState Best Practices
   - [Starter Code](https://codesandbox.io/s/setstate-gotchas-vimd0)
@@ -114,11 +114,11 @@ See you all Monday!
 
 - DQ: Props and State Exercise
 - Morning Lecture: React Data Flow
-  - [Starter Code](TODO: add link)
+  - [Starter Code](lectures/04-react-data-flow)
   - [Example Lecture](https://youtu.be/gnRyJQeCE8k)
   - [Exercise](https://codesandbox.io/s/inverse-data-flow-exercise-039fu)
 - Afternoon Lecture: Forms
-  - [Starter Code](TODO: add link)
+  - [Starter Code](lectures/05-forms)
   - [Example Lecture](https://youtu.be/_1P_hMQNUno)
   - [Exercise](https://codesandbox.io/s/form-exercise-vpzpd)
 - Labs: State and Events (finish)
@@ -191,7 +191,7 @@ See you all Monday!
 ### Week 2: Friday
 
 - Morning Lecture: React Router
-  - [Starter Code](TODO: add link)
+  - [Starter Code](lectures/07-react-router)
   - [Example Lecture](https://youtu.be/I97SmfOYBsI)
   - [Exercise](https://codesandbox.io/s/react-router-exercise-bdvib?file=/src/App.js)
 - Optional Labs
