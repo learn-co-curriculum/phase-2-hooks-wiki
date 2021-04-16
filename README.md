@@ -1,0 +1,225 @@
+# Phase 2 React Hooks Schedule
+
+- [Prework](#prework)
+- [Week 1](#week-1)
+  - [Week 1: Monday](#week-1-monday)
+  - [Week 1: Tuesday](#week-1-tuesday)
+  - [Week 1: Wednesday](#week-1-wednesday)
+  - [Week 1: Thursday](#week-1-thursday)
+  - [Week 1: Friday](#week-1-friday)
+- [Week 2](#week-2)
+  - [Week 2: Monday](#week-2-monday)
+  - [Week 2: Tuesday](#week-2-tuesday)
+  - [Week 2: Wednesday](#week-2-wednesday)
+  - [Week 2: Thursday](#week-2-thursday)
+  - [Week 2: Friday](#week-2-friday)
+- [Week 3](#week-3)
+  - [Week 3: Monday](#week-3-monday)
+  - [Week 3: Tuesday](#week-3-tuesday)
+  - [Week 3: Wednesday](#week-3-wednesday)
+  - [Week 3: Thursday](#week-3-thursday)
+  - [Week 3: Friday](#week-3-friday)
+
+## Prework
+
+The weekend prior to starting the phase, deploy these lab sections:
+
+- Intro to NPM
+- Introduction to React
+
+There's not much content here, so the students have a chance to get a mental break between Phase 1 and 2. The priority is to give them some minimal exposure to React and spark curiosity for how it will make the job of creating a single page application easier.
+
+Example Slack Message:
+
+```txt
+*@channel* I hope you’re excited for React! As I mentioned, there’s not a lot of homework required for the weekend since we know you all need time to rest. Please just work on these sections of labs in Canvas (labs with a :star: are most important):
+
+*Node Package Manager*
+• Intro to NPM
+• Node Package Management Code-Along
+
+*Introduction to React*
+• What is React? :star:
+• A React App Example :star:
+• Running Tests in React
+
+If you’re feeling motivated, you can continue onto other sections, but we’ll have time starting Monday to move ahead with the rest of the labs.
+
+In future sections, you'll notice some Scrimba Playlist links at the top of some sections. Scrimba is an awesome interative screencast tool that will let you watch short instructional videos and get your hands on the code. I highly recommend checking them out to supplement the labs and readmes.
+
+Finally, here’s a version of the React docs that uses the functions/hooks syntax we’ll be teaching. The React docs are an awesome resource - definitely worth reading through this weekend and referencing as you learn more. *Bookmark this page!!*
+
+• React with Hooks docs: https://reactwithhooks.netlify.app/
+
+See you all Monday!
+```
+
+## Week 1
+
+### Week 1: Monday
+
+- Morning Lecture: Intro to React
+  - [Slides](https://intro-react-slides.netlify.app/)
+  - [Code](https://github.com/ihollander/slides-intro-to-react)
+  - [Exercise](https://codesandbox.io/s/react-toy-tale-exercise-ih7bc?file=/src/App.js)
+  - [Example Lecture](https://youtu.be/_aKNyPwkc1k)
+- Labs: React Components Basics
+  - ⭐️ React Components Basics Lab
+  - Organizing Code with Import/Export
+  - Organizing Code with Import/Export Lab
+  - ⭐️ Writing JSX
+  - ⭐️ JSX Lab
+  - Props Basics
+  - ⭐️ Props Basics Lab
+- Scrimba
+  - [Components and Props](https://scrimba.com/playlist/pzvM7hM) (through Code Organization with Import/Export)
+
+### Week 1: Tuesday
+
+- DQ: Components
+- Morning Lecture: Components and Props
+  - [Starter Code](TODO: add link)
+  - [Example Lecture](https://youtu.be/iG0c1UItyNs)
+- Labs: Components, Props and JSX
+  - ⭐️ Props Destructuring and Default Values
+  - Lists and Keys
+  - ⭐️ Lists and Keys Lab
+  - ⭐️ Components, Props and JSX Mini Project
+  - BONUS: React Fragments
+  - BONUS: React Children
+- Scrimba
+  - [Components and Props](https://scrimba.com/playlist/pzvM7hM) (finish)
+
+### Week 1: Wednesday
+
+- DQ: Extracting Components
+- Morning Lecture: State and Events
+  - [Starter Code](TODO: add link)
+  - [Example Lecture](https://youtu.be/X0ZvSopGi4c)
+- Optional Afternoon Mini Lecture: useState Best Practices
+  - [Starter Code](https://codesandbox.io/s/setstate-gotchas-vimd0)
+  - [Example Lecture](https://youtu.be/dXue3GDbPGE)
+- Afternoon Pairing: React State and Events Pairing
+- Labs: State and Events (through React State Lab)
+  - Event Handling in React
+  - Event Handling in React Lab
+  - ⭐️ React State
+  - React State and Events Code-along
+  - ⭐️ React State and Arrays
+  - ⭐️ React State Lab
+- Scrimba
+  - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (through State and Events Exercise)
+
+### Week 1: Thursday
+
+- DQ: Props and State Exercise
+- Morning Lecture: React Data Flow
+  - [Starter Code](TODO: add link)
+  - [Example Lecture](https://youtu.be/gnRyJQeCE8k)
+  - [Exercise](https://codesandbox.io/s/inverse-data-flow-exercise-039fu)
+- Afternoon Lecture: Forms
+  - [Starter Code](TODO: add link)
+  - [Example Lecture](https://youtu.be/_1P_hMQNUno)
+  - [Exercise](https://codesandbox.io/s/form-exercise-vpzpd)
+- Labs: State and Events (finish)
+  - ⭐️ React Information Flow
+  - React Information Flow Lab
+  - React Controlled Inputs (this is a long readme, and most of the content was covered in lecture. Read if you want a deeper dive or if lecture didn’t click for you.)
+  - React Forms Submit
+  - BONUS: React Forms Abstraction
+  - ⭐️ React Controlled Components Lab
+  - State and Events Mini Project (warning: this is a substantial project, but will give you good practice on the fundamentals!)
+- Scrimba
+  - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (finish)
+  - [Thinking in React](https://scrimba.com/playlist/pzvM3sb)
+
+### Week 1: Friday
+
+- Morning: Hogwarts Pairing
+- Afternoon Lecture: Hogwarts Review
+  - [Example Lecture](https://youtu.be/Ej0pKJdbRoA)
+- Weekend Labs: Side Effects and Data Fetching (_Note: we’ll have a lesson on Monday that covers what you need to know, so if you need the weekend to rest or catch up on labs from earlier in the week, you can save these for later. The key concept from these labs that you need to know for the code challenge is how to fetch data using the useEffect hook. The Data Fetching in React lab covers that concept._)
+  - The useEffect Hook
+  - The useEffect Hook - Cleaning Up
+  - React useEffect Lab
+  - ⭐️ Data Fetching in React
+  - ⭐️ React Simple Data Fetching Lab
+  - Async Giphy Search Lab
+  - ⭐️ React Fetch CRUD Lab
+- Scrimba
+  - [Side Effects and Data Fetching](https://scrimba.com/playlist/pn93eAw)
+
+## Week 2
+
+### Week 2: Monday
+
+- DQ: Conditional Rendering
+- Morning Lecture: useEffect Workshop
+  - [Starter Code](https://github.com/ihollander/workshop-use-effect)
+  - [Example Lecture](https://youtu.be/_7JTuGuajrA)
+- Labs: Practice Challenges
+  - ⭐️ Mock Code Challenge: Plantsy - similar format to the actual code challenge. Has a walkthrough video on the solution-walkthrough branch. We’ll have a review lecture for this one Tuesday, so make sure you try it!
+  - ⭐️ Mock Code Challenge: gregslist - similar format to the actual code challenge. Has a walkthrough video on the solution-walkthrough branch. Recommend saving this for later, when you want to test yourself on how ready you are for the code challenge.
+  - React Pokemon Searcher - good practice with a form and a search filter
+  - Toy Tales - good practice a form and doing full CRUD with a json-server API
+  - Sushi Saga - good practice working with arrays and state, and sharing data between components. On the more challenging side, but has some fun new problems!
+  - React Stocks - good practice with filter, sort, and reusable components
+  - Chatterbox - here for you if you like Scrimba and want a code challenge-style Scrimba exercise: [https://scrimba.com/playlist/prxdvSy][]
+
+### Week 2: Tuesday
+
+- Morning Lecture: Practice Challenge review
+  - [Example Lecture](https://youtu.be/Aop43hMYXVs)
+- Labs: Practice Challenges
+- Optional Labs: React Under the Hood
+
+### Week 2: Wednesday
+
+- Code Challenge Round 1
+  - Recommended: Poesy
+- Optional Lecture: Code Challenge Review
+  - [Example Lecture](https://youtu.be/hLFMPqN3H0MM)
+- Labs: React Router
+- Scrimba
+  - [React Router](https://scrimba.com/playlist/pXZKQAB)
+
+### Week 2: Thursday
+
+- Code Challenge Round 2
+  - Recommended: Bank of Flatiron
+
+### Week 2: Friday
+
+- Morning Lecture: React Router
+  - [Starter Code](TODO: add link)
+  - [Example Lecture](https://youtu.be/I97SmfOYBsI)
+  - [Exercise](https://codesandbox.io/s/react-router-exercise-bdvib?file=/src/App.js)
+- Optional Labs
+  - Advanced Hooks
+  - Class Components
+
+## Week 3
+
+### Week 3: Monday
+
+- Optional Morning Lecture: Custom Hooks Workshop
+  - [Starter Code](https://github.com/ihollander/workshop-custom-hooks)
+  - [Example Lecture](https://youtu.be/-J9ghK6pA0I)
+
+### Week 3: Tuesday
+
+- Lecture: CSS?
+
+### Week 3: Wednesday
+
+- Optional Morning Lecture: Styled Components Workshop
+  - [Starter Code](https://github.com/ihollander/workshop-styled-components)
+  - [Example Lecture](https://youtu.be/iTYsazA2p7A)
+
+### Week 3: Thursday
+
+- Lecture: Testing?
+
+### Week 3: Friday
+
+- Morning: Project Demos
