@@ -175,7 +175,7 @@ See you all Monday!
 
 ### Week 2: Wednesday
 
-- Code Challenge Round 1
+- [Code Challenge Round 1](./code-challenge.md)
   - Recommended: Poesy
 - Optional Lecture: Code Challenge Review
   - [Example Lecture](https://youtu.be/hLFMPqN3H0MM)
@@ -185,7 +185,7 @@ See you all Monday!
 
 ### Week 2: Thursday
 
-- Code Challenge Round 2
+- [Code Challenge Round 2](./code-challenge.md)
   - Recommended: Bank of Flatiron
 
 ### Week 2: Friday
