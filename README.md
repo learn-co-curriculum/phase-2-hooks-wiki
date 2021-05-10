@@ -1,4 +1,11 @@
-# Phase 2 React Hooks Schedule
+# Phase 2 React Hooks 
+
+## Notes
+
+In Canvas, there are links to some external Scrimba playlists that I recorded - feel free to use
+them if you find them useful. They're in a separate module called Optional - Scrimba Playlists.
+
+## Schedule
 
 - [Prework](#prework)
 - [Week 1](#week-1)
