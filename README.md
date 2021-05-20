@@ -2,8 +2,9 @@
 
 ## Notes
 
-In Canvas, there are links to some external Scrimba playlists that I recorded - feel free to use
-them if you find them useful. They're in a separate module called Optional - Scrimba Playlists.
+In Canvas, there are links to some external Scrimba playlists that I recorded -
+feel free to use them if you find them useful. They show up throughout each
+module and are aligned with the content covered in that module.
 
 ## Prework
 
