@@ -1,31 +1,9 @@
-# Phase 2 React Hooks
+# Phase 2 React Hooks Schedule
 
 ## Notes
 
 In Canvas, there are links to some external Scrimba playlists that I recorded - feel free to use
 them if you find them useful. They're in a separate module called Optional - Scrimba Playlists.
-
-## Schedule
-
-- [Prework](#prework)
-- [Week 1](#week-1)
-  - [Week 1: Monday](#week-1-monday)
-  - [Week 1: Tuesday](#week-1-tuesday)
-  - [Week 1: Wednesday](#week-1-wednesday)
-  - [Week 1: Thursday](#week-1-thursday)
-  - [Week 1: Friday](#week-1-friday)
-- [Week 2](#week-2)
-  - [Week 2: Monday](#week-2-monday)
-  - [Week 2: Tuesday](#week-2-tuesday)
-  - [Week 2: Wednesday](#week-2-wednesday)
-  - [Week 2: Thursday](#week-2-thursday)
-  - [Week 2: Friday](#week-2-friday)
-- [Week 3](#week-3)
-  - [Week 3: Monday](#week-3-monday)
-  - [Week 3: Tuesday](#week-3-tuesday)
-  - [Week 3: Wednesday](#week-3-wednesday)
-  - [Week 3: Thursday](#week-3-thursday)
-  - [Week 3: Friday](#week-3-friday)
 
 ## Prework
 
@@ -99,7 +77,7 @@ See you all Monday!
 
 - DQ: Components
 - Morning Lecture: Components and Props
-  - [Starter Code](lectures/02-components-and-props)
+  - [Starter Code](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/lectures/02-components-and-props)
   - [Example Lecture](https://youtu.be/iG0c1UItyNs)
 - Labs: Components, Props and JSX
   - ⭐️ Props Destructuring and Default Values
@@ -115,7 +93,7 @@ See you all Monday!
 
 - DQ: Extracting Components
 - Morning Lecture: State and Events
-  - [Starter Code](lectures/03-state-and-events)
+  - [Starter Code](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/lectures/03-state-and-events)
   - [Example Lecture](https://youtu.be/X0ZvSopGi4c)
 - Optional Afternoon Mini Lecture: useState Best Practices
   - [Starter Code](https://codesandbox.io/s/setstate-gotchas-vimd0)
@@ -136,11 +114,11 @@ See you all Monday!
 
 - DQ: Props and State Exercise
 - Morning Lecture: React Data Flow
-  - [Starter Code](lectures/04-react-data-flow)
+  - [Starter Code](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/lectures/04-react-data-flow)
   - [Example Lecture](https://youtu.be/gnRyJQeCE8k)
   - [Exercise](https://codesandbox.io/s/inverse-data-flow-exercise-039fu)
 - Afternoon Lecture: Forms
-  - [Starter Code](lectures/05-forms)
+  - [Starter Code](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/lectures/05-forms)
   - [Example Lecture](https://youtu.be/_1P_hMQNUno)
   - [Exercise](https://codesandbox.io/s/form-exercise-vpzpd)
 - Labs: State and Events (finish)
@@ -213,7 +191,7 @@ See you all Monday!
 
 ### Week 2: Wednesday
 
-- [Code Challenge Round 1](./code-challenge.md)
+- [Code Challenge Round 1](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/code-challenge.md)
   - Recommended: Poesy
 - Optional Lecture: Code Challenge Review
   - [Example Lecture](https://youtu.be/hLFMPqN3H0MM)
@@ -223,13 +201,13 @@ See you all Monday!
 
 ### Week 2: Thursday
 
-- [Code Challenge Round 2](./code-challenge.md)
+- [Code Challenge Round 2](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/code-challenge.md)
   - Recommended: Bank of Flatiron
 
 ### Week 2: Friday
 
 - Morning Lecture: React Router
-  - [Starter Code](lectures/07-react-router)
+  - [Starter Code](https://github.com/learn-co-curriculum/phase-2-hooks-wiki/tree/main/lectures/07-react-router)
   - [Example Lecture](https://youtu.be/I97SmfOYBsI)
   - [Exercise](https://codesandbox.io/s/react-router-exercise-bdvib?file=/src/App.js)
 - Optional Labs
