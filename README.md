@@ -1,4 +1,4 @@
-# Phase 2 React Hooks 
+# Phase 2 React Hooks
 
 ## Notes
 
@@ -34,27 +34,40 @@ The weekend prior to starting the phase, deploy these lab sections:
 - Intro to NPM
 - Introduction to React
 
-There's not much content here, so the students have a chance to get a mental break between Phase 1 and 2. The priority is to give them some minimal exposure to React and spark curiosity for how it will make the job of creating a single page application easier.
+There's not much content here, so the students have a chance to get a mental
+break between Phase 1 and 2. The priority is to give them some minimal exposure
+to React and spark curiosity for how it will make the job of creating a single
+page application easier.
 
 Example Slack Message:
 
 ```txt
-*@channel* I hope you’re excited for React! As I mentioned, there’s not a lot of homework required for the weekend since we know you all need time to rest. Please just work on these sections of labs in Canvas (labs with a :star: are most important):
+*@channel* I hope you’re excited for React! As I mentioned, there’s not a lot of
+homework required for the weekend since we know you all need time to rest.
+Please just work on these sections of labs in Canvas (labs with a :star: are
+most important):
 
-*Node Package Manager*
-• Intro to NPM
-• Node Package Management Code-Along
+*Using Packages in JavaScript*
+• Intro to npm
+• npm Code Along
 
 *Introduction to React*
 • What is React? :star:
 • A React App Example :star:
 • Running Tests in React
 
-If you’re feeling motivated, you can continue onto other sections, but we’ll have time starting Monday to move ahead with the rest of the labs.
+If you’re feeling motivated, you can continue onto other sections, but we’ll
+have time starting Monday to move ahead with the rest of the labs.
 
-In future sections, you'll notice some Scrimba Playlist links at the top of some sections. Scrimba is an awesome interative screencast tool that will let you watch short instructional videos and get your hands on the code. I highly recommend checking them out to supplement the labs and readmes.
+In future sections, you'll notice some Scrimba Playlist links at the top of some
+sections. Scrimba is an awesome interative screencast tool that will let you
+watch short instructional videos and get your hands on the code. I highly
+recommend checking them out to supplement the labs and readmes.
 
-Finally, here’s a version of the React docs that uses the functions/hooks syntax we’ll be teaching. The React docs are an awesome resource - definitely worth reading through this weekend and referencing as you learn more. *Bookmark this page!!*
+Finally, here’s a version of the React docs that uses the functions/hooks syntax
+we’ll be teaching. The React docs are an awesome resource - definitely worth
+reading through this weekend and referencing as you learn more. *Bookmark this
+page!!*
 
 • React with Hooks docs: https://reactwithhooks.netlify.app/
 
@@ -79,7 +92,8 @@ See you all Monday!
   - Props Basics
   - ⭐️ Props Basics Lab
 - Scrimba
-  - [Components and Props](https://scrimba.com/playlist/pzvM7hM) (through Code Organization with Import/Export)
+  - [Components and Props](https://scrimba.com/playlist/pzvM7hM) (through Code
+    Organization with Import/Export)
 
 ### Week 1: Tuesday
 
@@ -115,7 +129,8 @@ See you all Monday!
   - ⭐️ React State and Arrays
   - ⭐️ React State Lab
 - Scrimba
-  - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (through State and Events Exercise)
+  - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (through State and
+    Events Exercise)
 
 ### Week 1: Thursday
 
@@ -131,11 +146,14 @@ See you all Monday!
 - Labs: State and Events (finish)
   - ⭐️ React Information Flow
   - React Information Flow Lab
-  - React Controlled Inputs (this is a long readme, and most of the content was covered in lecture. Read if you want a deeper dive or if lecture didn’t click for you.)
+  - React Controlled Inputs (this is a long readme, and most of the content was
+    covered in lecture. Read if you want a deeper dive or if lecture didn’t
+    click for you.)
   - React Forms Submit
   - BONUS: React Forms Abstraction
   - ⭐️ React Controlled Components Lab
-  - State and Events Mini Project (warning: this is a substantial project, but will give you good practice on the fundamentals!)
+  - State and Events Mini Project (warning: this is a substantial project, but
+    will give you good practice on the fundamentals!)
 - Scrimba
   - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (finish)
   - [Thinking in React](https://scrimba.com/playlist/pzvM3sb)
@@ -145,7 +163,12 @@ See you all Monday!
 - Morning: Hogwarts Pairing
 - Afternoon Lecture: Hogwarts Review
   - [Example Lecture](https://youtu.be/Ej0pKJdbRoA)
-- Weekend Labs: Side Effects and Data Fetching (_Note: we’ll have a lesson on Monday that covers what you need to know, so if you need the weekend to rest or catch up on labs from earlier in the week, you can save these for later. The key concept from these labs that you need to know for the code challenge is how to fetch data using the useEffect hook. The Data Fetching in React lab covers that concept._)
+- Weekend Labs: Side Effects and Data Fetching (_Note: we’ll have a lesson on
+  Monday that covers what you need to know, so if you need the weekend to rest
+  or catch up on labs from earlier in the week, you can save these for later.
+  The key concept from these labs that you need to know for the code challenge
+  is how to fetch data using the useEffect hook. The Data Fetching in React lab
+  covers that concept._)
   - The useEffect Hook
   - The useEffect Hook - Cleaning Up
   - React useEffect Lab
@@ -165,13 +188,21 @@ See you all Monday!
   - [Starter Code](https://github.com/ihollander/workshop-use-effect)
   - [Example Lecture](https://youtu.be/_7JTuGuajrA)
 - Labs: Practice Challenges
-  - ⭐️ Mock Code Challenge: Plantsy - similar format to the actual code challenge. Has a walkthrough video on the solution-walkthrough branch. We’ll have a review lecture for this one Tuesday, so make sure you try it!
-  - ⭐️ Mock Code Challenge: gregslist - similar format to the actual code challenge. Has a walkthrough video on the solution-walkthrough branch. Recommend saving this for later, when you want to test yourself on how ready you are for the code challenge.
+  - ⭐️ Mock Code Challenge: Plantsy - similar format to the actual code
+    challenge. Has a walkthrough video on the solution-walkthrough branch. We’ll
+    have a review lecture for this one Tuesday, so make sure you try it!
+  - ⭐️ Mock Code Challenge: gregslist - similar format to the actual code
+    challenge. Has a walkthrough video on the solution-walkthrough branch.
+    Recommend saving this for later, when you want to test yourself on how ready
+    you are for the code challenge.
   - React Pokemon Searcher - good practice with a form and a search filter
   - Toy Tales - good practice a form and doing full CRUD with a json-server API
-  - Sushi Saga - good practice working with arrays and state, and sharing data between components. On the more challenging side, but has some fun new problems!
+  - Sushi Saga - good practice working with arrays and state, and sharing data
+    between components. On the more challenging side, but has some fun new
+    problems!
   - React Stocks - good practice with filter, sort, and reusable components
-  - Chatterbox - here for you if you like Scrimba and want a code challenge-style Scrimba exercise: [https://scrimba.com/playlist/prxdvSy][]
+  - Chatterbox - here for you if you like Scrimba and want a code
+    challenge-style Scrimba exercise: [https://scrimba.com/playlist/prxdvSy][]
 
 ### Week 2: Tuesday
 
@@ -207,6 +238,9 @@ See you all Monday!
 
 ## Week 3
 
+There is a lot of freedom to cover whatever material students are interested in,
+like CSS, Styled-Components, Custom Hooks, Class Component syntax...
+
 ### Week 3: Monday
 
 - Optional Morning Lecture: Custom Hooks Workshop
@@ -215,7 +249,9 @@ See you all Monday!
 
 ### Week 3: Tuesday
 
-- Lecture: CSS?
+- Mini Lecture: Class Components
+  - [Code](https://github.com/learn-co-students/nyc-web-031521/tree/main/23-react-class-syntax)
+  - [Example Lecture](https://youtu.be/oBrRVeigjtc)
 
 ### Week 3: Wednesday
 
@@ -225,7 +261,7 @@ See you all Monday!
 
 ### Week 3: Thursday
 
-- Lecture: Testing?
+- Project time
 
 ### Week 3: Friday
 
