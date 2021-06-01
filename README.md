@@ -10,7 +10,7 @@ module and are aligned with the content covered in that module.
 
 The weekend prior to starting the phase, deploy these lab sections:
 
-- Intro to NPM
+- Welcome to Phase 2
 - Introduction to React
 
 There's not much content here, so the students have a chance to get a mental
@@ -21,17 +21,18 @@ page application easier.
 Example Slack Message:
 
 ```txt
-*@channel* I hope you’re excited for React! As I mentioned, there’s not a lot of
-homework required for the weekend since we know you all need time to rest.
-Please just work on these sections of labs in Canvas (labs with a :star: are
-most important):
+*@channel* I hope you’re excited for React! There’s not a lot of homework
+required for the weekend since we know you all need time to rest. Please just
+work on the Introduction to React section in Canvas (labs with a :star: are most
+important):
 
-*Using Packages in JavaScript*
-• Intro to npm
-• npm Code Along
+*Welcome to Phase 2!*
+• Welcome to Phase 2 :star:
 
 *Introduction to React*
 • What is React? :star:
+• Intro to npm
+• npm Code-Along
 • A React App Example :star:
 • Running Tests in React
 
@@ -44,9 +45,9 @@ watch short instructional videos and get your hands on the code. I highly
 recommend checking them out to supplement the labs and readmes.
 
 Finally, here’s a version of the React docs that uses the functions/hooks syntax
-we’ll be teaching. The React docs are an awesome resource - definitely worth
-reading through this weekend and referencing as you learn more. *Bookmark this
-page!!*
+we’ll be teaching. The React docs are an awesome resource and are definitely
+worth reading through this weekend and referencing as you learn more. *Bookmark
+this page!!*
 
 • React with Hooks docs: https://reactwithhooks.netlify.app/
 
@@ -62,7 +63,8 @@ See you all Monday!
   - [Code](https://github.com/ihollander/slides-intro-to-react)
   - [Exercise](https://codesandbox.io/s/react-toy-tale-exercise-ih7bc?file=/src/App.js)
   - [Example Lecture](https://youtu.be/_aKNyPwkc1k)
-- Labs: React Components Basics
+- Labs: Components and Props
+  - React Components Basics
   - ⭐️ React Components Basics Lab
   - Organizing Code with Import/Export
   - Organizing Code with Import/Export Lab
@@ -84,7 +86,7 @@ See you all Monday!
   - ⭐️ Props Destructuring and Default Values
   - Lists and Keys
   - ⭐️ Lists and Keys Lab
-  - ⭐️ Components, Props and JSX Mini Project
+  - ⭐️ Putting it All Together: Components and Props
   - BONUS: React Fragments
   - BONUS: React Children
 - Scrimba
@@ -99,7 +101,7 @@ See you all Monday!
 - Optional Afternoon Mini Lecture: useState Best Practices
   - [Starter Code](https://codesandbox.io/s/setstate-gotchas-vimd0)
   - [Example Lecture](https://youtu.be/dXue3GDbPGE)
-- Afternoon Pairing: React State and Events Pairing
+- Afternoon Pairing: ReactTube
 - Labs: State and Events (through React State Lab)
   - Event Handling in React
   - Event Handling in React Lab
@@ -131,7 +133,7 @@ See you all Monday!
   - React Forms Submit
   - BONUS: React Forms Abstraction
   - ⭐️ React Controlled Components Lab
-  - State and Events Mini Project (warning: this is a substantial project, but
+  - ⭐️ Putting it All Together: State and Events (warning: this is a substantial project, but
     will give you good practice on the fundamentals!)
 - Scrimba
   - [State & Events](https://scrimba.com/playlist/pBQgdHZ) (finish)
@@ -153,8 +155,7 @@ See you all Monday!
   - React useEffect Lab
   - ⭐️ Data Fetching in React
   - ⭐️ React Simple Data Fetching Lab
-  - Async Giphy Search Lab
-  - ⭐️ React Fetch CRUD Lab
+  - ⭐️ Putting it All Together: React Fetch CRUD Lab
 - Scrimba
   - [Side Effects and Data Fetching](https://scrimba.com/playlist/pn93eAw)
 
@@ -196,7 +197,7 @@ See you all Monday!
   - Recommended: Poesy
 - Optional Lecture: Code Challenge Review
   - [Example Lecture](https://youtu.be/hLFMPqN3H0MM)
-- Labs: React Router
+- Labs: Client-Side Routing
 - Scrimba
   - [React Router](https://scrimba.com/playlist/pXZKQAB)
 
